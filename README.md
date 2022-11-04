@@ -44,8 +44,10 @@ const valorCombustivel = 5.59; /*(Na programação não se usa 'virgula' para se
 const combustivelPorKm = 9.5;
 const distanciaKm = 200;
 
-console.log(valorCombustivel * distanciaKm / combustivelPorKm);
+const litrosConsumidos = valorCombustivel * distanciaKm;
+const valorGasto = litrosConsumidos / combustivelPorKm;
 
+console.log(valorGasto.toFixed(2));
 ----------------------------------------------------------
 
 
