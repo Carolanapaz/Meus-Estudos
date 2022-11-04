@@ -1,4 +1,4 @@
-# Meus-Estudos
+# Meus-Estudos-PRIMEIRA-AULA-DE-JAVASCRIPT
 
 console.log('Imprime algo');
 
