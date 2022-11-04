@@ -41,12 +41,10 @@ Imprima no console o valor que será gasto de combustível para realizar essa vi
 */
 
 const valorCombustivel = 5.59; /*(Na programação não se usa 'virgula' para separar casas decimais, apenas usa-se 'ponto')*/
+const combustivelPorKm = 9.5;
+const distanciaKm = 200;
 
-const combustivelPorKm = 10;
-
-const distancia = 200;
-
-console.log(valorCombustivel * distancia / combustivelPorKm);
+console.log(valorCombustivel * distanciaKm / combustivelPorKm);
 
 ----------------------------------------------------------
 
