@@ -2,6 +2,9 @@
 
 console.log('Imprime algo');
 
+/*FUNÇÃO = console.log
+String = 'string' > qualquer valor ou palavra entre 'aspa unica'*/
+
 ---------------------------------------------------
 
 let variavel = 10;
