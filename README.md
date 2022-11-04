@@ -6,9 +6,9 @@ console.log('Imprime algo');
 
 let variavel = 10;
 
-variavel = 20; (consigo substituir valores de variaveis)
+variavel = 20; /*(consigo substituir valores de variaveis)*/
 
-const pi = 3.1415; (constantes não são possiveis substiruir valores)
+const pi = 3.1415; /*(constantes não são possiveis substiruir valores)*/
 
 -------------------------------------------------------------------------
 
@@ -37,13 +37,13 @@ Você terá três variáveis. Sendo elas:
 Imprima no console o valor que será gasto de combustível para realizar essa viagem.
 */
 
-const valorCombustivel = 5.59;
+const valorCombustivel = 5.59; /*(Na programação não se usa 'virgula' para separar casas decimais, apenas usa-se 'ponto)*/
 
-const combustPorKm = 10;
+const combustivelPorKm = 10;
 
 const distancia = 200;
 
-console.log(valorCombustivel * distancia / combustPorKm)
+console.log(valorCombustivel * distancia / combustivelPorKm);
 
 ----------------------------------------------------------
 
