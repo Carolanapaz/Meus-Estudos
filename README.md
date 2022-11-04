@@ -44,3 +44,7 @@ const combustPorKm = 10;
 const distancia = 200;
 
 console.log(valorCombustivel * distancia / combustPorKm)
+
+----------------------------------------------------------
+
+
