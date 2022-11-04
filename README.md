@@ -40,7 +40,7 @@ Você terá três variáveis. Sendo elas:
 Imprima no console o valor que será gasto de combustível para realizar essa viagem.
 */
 
-const valorCombustivel = 5.59; /*(Na programação não se usa 'virgula' para separar casas decimais, apenas usa-se 'ponto)*/
+const valorCombustivel = 5.59; /*(Na programação não se usa 'virgula' para separar casas decimais, apenas usa-se 'ponto')*/
 
 const combustivelPorKm = 10;
 
